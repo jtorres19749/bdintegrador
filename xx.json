@@ -1,0 +1,19 @@
+{
+    
+    "noOrden":"1000",
+    "fecha":"2023/03/12",
+    "sucursal":"11",
+    "noTerminal":"1",
+    "vendedor":"",
+    "cliente":"656d4fc6bba098155c0e158d",
+    "articulos":1,
+    "subtotal":100,
+    "iva":15,
+    "total":115,
+    "listaProductos": [
+        "656d5d33df953868b07f8aa4"
+    ]
+}
+
+
+    
